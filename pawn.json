@@ -1,0 +1,7 @@
+{
+  "user": "leamir",
+  "repo": "Samp-EasyKeys",
+  "dependencies": [
+    "sampctl/samp-stdlib"
+  ]
+}
