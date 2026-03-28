@@ -1,5 +1,6 @@
 # EasyKeys
 A include to facilitate the detection of keys in SA-MP.
+###### English | **[Português](./README-pt-Br.md)**
 
 ---
 
